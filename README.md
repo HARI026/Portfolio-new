@@ -7,7 +7,6 @@ Welcome to my personal portfolio website! I'm **Harish**, an entry-level eLearni
 ## 🔗 Live Preview
 
 🌍 [Visit My Portfolio](https://hari026.github.io/Portfolio-new/)  
-📧 [Email Me](mailto:krishnahari90255@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/harish-developer/) | [GitHub](https://github.com/HARI026)
 
 ---
