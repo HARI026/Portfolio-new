@@ -2,15 +2,13 @@
 
 Welcome to my personal portfolio website! I'm **Harish**, an entry-level eLearning Developer currently working at **Knotopian**, passionate about building creative, responsive, and interactive digital learning experiences.
 
-![Portfolio Preview](https://via.placeholder.com/1000x400?text=Insert+Screenshot+of+Your+Portfolio+Here)
-
 ---
 
 ## 🔗 Live Preview
 
-🌍 [Visit My Portfolio](https://your-portfolio-url.com)  
+🌍 [Visit My Portfolio](https://hari026.github.io/Portfolio-new/)  
 📧 [Email Me](mailto:krishnahari90255@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-github)
+🔗 [LinkedIn](https://www.linkedin.com/in/harish-developer/) | [GitHub](https://github.com/HARI026)
 
 ---
 
@@ -33,7 +31,4 @@ Welcome to my personal portfolio website! I'm **Harish**, an entry-level eLearni
 ✅ Project thumbnails with links  
 ✅ Resume & About section showcasing skills and experience
 
----
-
-## 📁 Project Structure
 
