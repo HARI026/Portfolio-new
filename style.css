@@ -309,7 +309,7 @@ button:nth-child(2):hover{
   .design {
     position: absolute;
     top: 105px;
-    left: 28.5%;
+    left: 26%;
     transform: translateX(-50%);
     width: 150px;
     height: 150px;
